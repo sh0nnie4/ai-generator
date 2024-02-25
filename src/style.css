@@ -63,6 +63,9 @@ form {
   margin-top: 6px;
   opacity: 0.6;
 }
+.hidden {
+  display: none;
+}
 footer {
   text-align: center;
   font-size: 13px;
